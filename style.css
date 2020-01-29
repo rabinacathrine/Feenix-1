@@ -1,0 +1,22 @@
+/* .customer {
+    margin-top: 50px;
+    text-align: center;
+    /* justify-content: center;
+    align-items: center;
+    align-content: center;
+    display: inline-block; */
+/* }
+.customer-form{
+    display: inline-block;
+    width: 60%;
+} */ 
+h3{
+    padding: 20px;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 22px;
+}
+.submit {
+    width: 200px;
+    margin-bottom: 20px;
+}
